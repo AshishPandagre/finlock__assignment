@@ -55,5 +55,7 @@ npm run dev
 
 
 ## Screenshots
-![Login/Register page design](./screenshots/1.png?raw=true)
-![Login/Register page design](./screenshots/2.png?raw=true)
+<p align="center">
+  <img src="./1.png" alt="Login/register page design" title="Login/register page design">
+  <img src="./2.png"  alt="Profile page design" title="Profile page design">
+</p>
