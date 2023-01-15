@@ -13,8 +13,8 @@
 
 ## Features
 List the ready features here:
-- Users can login through the route /login
-- Users can register through the route /register
+- Users can login through the route `/login`
+- Users can register through the route `/register`
 - Responsive design
 
 
@@ -55,5 +55,5 @@ npm run dev
 
 
 ## Screenshots
-![Login/Register page design](./screenshots/1.png)
-![Login/Register page design](./screenshots/2.png)
+![Login/Register page design](./screenshots/1.png?raw=true)
+![Login/Register page design](./screenshots/2.png?raw=true)
