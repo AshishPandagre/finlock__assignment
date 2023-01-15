@@ -56,6 +56,6 @@ npm run dev
 
 ## Screenshots
 <p align="center">
-  <img src="./1.png" alt="Login/register page design" title="Login/register page design">
-  <img src="./2.png"  alt="Profile page design" title="Profile page design">
+  <img src="./screnshots/1.png" alt="Login/register page design" title="Login/register page design">
+  <img src="./screnshots/2.png"  alt="Profile page design" title="Profile page design">
 </p>
