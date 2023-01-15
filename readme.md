@@ -56,4 +56,4 @@ npm run dev
 
 ## Screenshots
 ![Login/Register page design](./screenshots/1.PNG)
-![Login/Register page design](./screenshots/2.PNG)
+![profile page design](./screenshots/2.PNG)
