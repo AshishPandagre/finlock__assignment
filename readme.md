@@ -57,3 +57,5 @@ npm run dev
 ## Screenshots
 ![Login/Register page design](./screenshots/1.PNG)
 ![profile page design](./screenshots/2.PNG)
+
+Some postman examples can be found [here](./screenshots/postman/).
