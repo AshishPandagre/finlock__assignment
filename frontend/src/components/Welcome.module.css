@@ -1,0 +1,22 @@
+.welcome {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.user__icon__container {
+  background-color: #EFEFEF;
+  border-radius: 100%;
+  padding: 18px;
+}
+
+.user__icon {
+  width: 80px;
+}
+
+.welcome__text {
+  color: #0B3558;
+  margin-top: 20px;
+  font-size: xx-large;
+}

@@ -1,0 +1,9 @@
+.alert  {
+  border: 1px solid #A2A2A2;
+  padding: 8px;
+  border-radius: 4px;
+  opacity: 1;
+  background-color: #e63819;
+  color: white;
+  text-align: center;
+}
